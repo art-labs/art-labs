@@ -1,0 +1,17 @@
+html {
+    background-color: rgb(255, 80, 80);
+}
+
+a, p {
+    font-size: 20px;
+}
+
+th {
+    font-size: 25px;
+}
+
+tr, th, td {
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+}
